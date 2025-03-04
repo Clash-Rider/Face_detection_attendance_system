@@ -2,6 +2,7 @@ Dependency:
 	deepface(TensorFlow),
 	
 instruction:
+create a file name data "./face/data/"
 	store the image in /data/ file as
 		Name_0.jpg
 		Name_1.jpg
